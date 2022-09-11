@@ -3,11 +3,12 @@
 
 ### Ingredients
  - 2 whole cloves
- - 1 inch whole cinammon
+ - 2 inches whole cinammon
  - 4 cardamom pods
  - 1 whole star anise
  - 4 peppercorns
- - 1/2 teaspoon ground ginger
+ - 1 inch ginger, skinned & coined
+ - 1/4 piece nutmeg
  - 600ml oat milk
  - 2 tablespoons loose leaf black tea
 
