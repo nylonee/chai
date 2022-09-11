@@ -1,5 +1,5 @@
 # nylonee's Oat Milk Chai
-## Version 0.1
+## Version 0.2
 
 ### Ingredients
  - 2 whole cloves
