@@ -1,18 +1,19 @@
-# nylonee's Oat Milk Chai
-## Version 0.2
+# nylonee's Oat Milk Chai 0.3
+#### Serves 2
 
 ### Ingredients
- - 2 whole cloves
- - 2 inches whole cinammon
+ - 1 clove
+ - 2 inches cinammon
  - 4 cardamom pods
- - 1 whole star anise
+ - 1 star anise
  - 4 peppercorns
- - 1 inch ginger, skinned & coined
+ - 1 inch ginger, coined
  - 1/4 piece nutmeg
- - 600ml oat milk
+ - 700ml oat milk
  - 2 tablespoons loose leaf black tea
+ - 7 teaspoons jaggery powder
 
 ### Method
 1. Grind the spices, and add all to a saucepan
-2. Bring to simmer on medium-high heat
-3. Strain and add jaggery powder to taste
+2. Bring to simmer on high heat
+3. Strain and add jaggery powder
