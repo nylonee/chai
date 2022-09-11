@@ -1,4 +1,4 @@
-# nylonee's Vegan Chai Recipe
+# nylonee's Oat Milk Chai Recipe
 
 A version controlled recipe for Oat Milk Chai.
 
