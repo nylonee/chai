@@ -2,6 +2,8 @@
 
 A version controlled recipe for Oat Milk Chai.
 
+### Link to [Recipe](https://github.com/nylonee/chai/blob/main/recipe.md)
+
 ## Background
 I was struggling to find a good chai recipe that used oat milk instead of regular milk, so I started experimenting with my own recipe. Hope you like it!
 
