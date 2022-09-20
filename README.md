@@ -2,6 +2,8 @@
 
 A version controlled recipe for Oat Milk Chai.
 
+![chai_resized](https://user-images.githubusercontent.com/4732553/191349792-0071e7ff-ee1c-428e-a1c0-eef13648b583.jpg)
+
 ### Link to [Recipe](https://github.com/nylonee/chai/blob/main/recipe.md)
 
 ## Background
